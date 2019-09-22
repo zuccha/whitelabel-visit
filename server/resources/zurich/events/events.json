@@ -1,0 +1,44 @@
+[
+   {
+      "name": "Absolute Techno - Fun Records",
+      "category": "art",
+      "dateStart": "2019-10-05T00:00:00.000Z",
+      "dateEnd": "2019-10-05T00:00:00.000Z",
+      "location": "SpaceMonki Club, Zürich"
+   },
+   {
+      "name": "Weekend fun and fitness",
+      "category": "sport",
+      "dateStart": "2019-10-05T00:00:00.000Z",
+      "dateEnd": "2019-10-05T00:00:00.000Z",
+      "location": "Yonex Badminton Halle, Zürich"
+   },
+   {
+      "name": "Color Mania",
+      "category": "art",
+      "dateStart": "2019-10-06T00:00:00.000Z",
+      "dateEnd": "2019-10-06T00:00:00.000Z",
+      "location": "Fotomuseum Winterthur, Zürich"
+   },
+   {
+      "name": "Züri-Wiesn",
+      "category": "fair",
+      "dateStart": "2019-10-06T00:00:00.000Z",
+      "dateEnd": "2019-10-06T00:00:00.000Z",
+      "location": "Bahnhofplatz, Zürich"
+   },
+   {
+      "name": "Gallusmarkt",
+      "category": "fair",
+      "dateStart": "2019-10-07T00:00:00.000Z",
+      "dateEnd": "2019-10-07T00:00:00.000Z",
+      "location": "Einsiedeln"
+   },
+   {
+      "name": "Design Thinking Practitioners Meetup",
+      "category": "conference",
+      "dateStart": "2019-10-08T00:00:00.000Z",
+      "dateEnd": "2019-10-08T00:00:00.000Z",
+      "location": "Zürich"
+   }
+]

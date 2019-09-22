@@ -1,0 +1,22 @@
+[
+    {
+        "name": "The Peninsula Allure",
+        "image": "/hikes/peninsula.png",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Sentiero Monte Brè",
+        "image": "/hikes/bre.png",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Cima di Medeglia Path",
+        "image": "/hikes/medeglia.png",
+        "difficulty": "hard"
+    },
+    {
+        "name": "The Chestnut Trail",
+        "image": "/hikes/chestnut.png",
+        "difficulty": "medium"
+    }
+]

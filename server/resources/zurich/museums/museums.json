@@ -1,0 +1,27 @@
+[
+    {
+        "name":  "Kunsthaus Zürich",
+        "image": "/museums/kunsthaus.png",
+        "city": "Zürich"
+    },
+    {
+        "name":  "Museum Rietberg",
+        "image": "/museums/rietberg.png",
+        "city": "Zürich"
+    },
+    {
+        "name":  "Museum Haus Konstruktiv",
+        "image": "/museums/konstruktiv.png",
+        "city": "Zürich"
+    },
+    {
+        "name":  "MuDA",
+        "image": "/museums/digital.png",
+        "city": "Zürich"
+    },
+    {
+        "name":  "Photobastei",
+        "image": "/museums/photobastei.png",
+        "city": "Zürich"
+    }
+]

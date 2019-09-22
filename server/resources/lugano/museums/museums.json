@@ -1,0 +1,22 @@
+[
+    {
+        "name":  "LAC",
+        "image": "/museums/lac.png",
+        "city": "Lugano"
+    },
+    {
+        "name":  "Hermann Hesse Museum",
+        "image": "/museums/hesse.png",
+        "city": "Montagnola"
+    },
+    {
+        "name":  "Villa Ciani",
+        "image": "/museums/ciani.png",
+        "city": "Lugano"
+    },
+    {
+        "name":  "Museo in Erba",
+        "image": "/museums/erba.png",
+        "city": "Lugano"
+    }
+]

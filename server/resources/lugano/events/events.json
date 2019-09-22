@@ -1,0 +1,37 @@
+[
+   {
+      "name": "Autumn Festival",
+      "category": "fair",
+      "dateStart": "2019-10-04T00:00:00.000Z",
+      "dateEnd": "2019-10-06T00:00:00.000Z",
+      "location": "City Center, Lugano"
+   },
+   {
+      "name": "Voxxed Days Ticino",
+      "category": "conference",
+      "dateStart": "2019-10-05T00:00:00.000Z",
+      "dateEnd": "2019-10-05T00:00:00.000Z",
+      "location": "Palazzo dei Congressi, Lugano"
+   },
+   {
+      "name": "WOW",
+      "category": "art",
+      "dateStart": "2019-10-05T00:00:00.000Z",
+      "dateEnd": "2019-10-05T00:00:00.000Z",
+      "location": "Teatro Foce, Lugano"
+   },
+   {
+      "name": "ArteCasa Fair and Lugano Design District",
+      "category": "fair",
+      "dateStart": "2019-10-11T00:00:00.000Z",
+      "dateEnd": "2019-10-20T00:00:00.000Z",
+      "location": "Centro Esposizioni, Lugano"
+   },
+   {
+      "name": "\"Zibelemärit\" - The onion market",
+      "category": "fair",
+      "dateStart": "2019-10-12T00:00:00.000Z",
+      "dateEnd": "2019-10-12T00:00:00.000Z",
+      "location": "Piazza Manzoni, Lugano"
+   }
+]
