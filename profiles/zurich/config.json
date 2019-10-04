@@ -2,7 +2,7 @@
 	"id": "ch.visit.zurich",
 	"name": "Visit Zurich",
 	"theme": "dark",
-	"baseUrl": "http://192.168.1.219:8000",
+	"baseUrl": "http://localhost:8000",
 	"modules": ["events", "museums", "transports"],
 	"iconsPath": "./icons"
 }

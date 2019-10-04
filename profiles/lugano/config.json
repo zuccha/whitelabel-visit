@@ -2,7 +2,7 @@
 	"id": "ch.visit.lugano",
 	"name": "Visit Lugano",
 	"theme": "light",
-	"baseUrl": "http://192.168.1.219:6900",
+	"baseUrl": "http://localhost:6900",
 	"modules": ["events", "museums", "hikes"],
 	"iconsPath": "./icons"
 }
